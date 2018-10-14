@@ -1,0 +1,9 @@
+## Interface: 80000
+## Author: John Stephen
+## Title: Forge UI
+## Version: 1.1
+## Notes: Centers the player/target unit frames, removes dragons, supresses repeated warning messages, adds per-item cost to auctions
+## RequiredDeps: Forge
+## OptionalDeps: Blizzard_AuctionUI
+
+Forge_UI.lua
