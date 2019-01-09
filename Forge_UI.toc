@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Author: John Stephen
 ## Title: Forge UI
 ## Version: 1.1
